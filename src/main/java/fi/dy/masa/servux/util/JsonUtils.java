@@ -451,7 +451,7 @@ public class JsonUtils
     /**
      * Converts the given JsonElement tree into its string representation.
      * If <b>compact</b> is true, then it's written in one line without spaces or line breaks.
-     * @param root
+     * @param element
      * @param compact
      * @return
      */
